@@ -1,0 +1,26 @@
+.movie-card-wrapper {
+    
+
+    display: flex;
+    flex-wrap: wrap;
+    width: 30vw;
+    justify-content: space-around;
+
+   
+    
+}
+.movie-image img {
+    margin: 0 auto;
+    
+    
+}
+.movie-title {
+    font-size: 1.3rem;
+    text-align: center;
+    color: var(--input-text-color);
+    width: 60%;
+    margin-left: 2rem;
+    line-height: 25px;
+    margin-top: -20px;
+}
+
